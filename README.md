@@ -8,7 +8,7 @@ This section outlines the structure and purpose of the code repository for the N
 
 1. **data/cot_data**  
    - **toy_nps_cot_data.xlsx**: Contains example data for the Chain-of-Thought (COT) dataset, including SMILES strings, NPS labels, and reasoning annotations for over 2,900 molecules. This file serves as a reference for dataset format and content.
-
+   - For the full dataset, refer to https://zenodo.org/records/16778503; access is available upon request to the corresponding author for legitimate research purposes.
 2. **src/datasets**  
    - Contains scripts for dataset construction and preprocessing.
 
