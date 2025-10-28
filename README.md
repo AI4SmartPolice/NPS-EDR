@@ -2,7 +2,7 @@
 
 ## Overview
 The NPS-EDR (New Psychoactive Substances - Explainable Deep Reasoning) project introduces an innovative AI model designed to identify novel psychoactive substances (NPS) with transparent, chemically grounded reasoning. Utilizing a Cooperative Experts Framework, NPS-EDR combines a classifier and an explainer to deliver accurate NPS predictions and clear explanations.
-
+![TOC Graphic](src/TOC_Graphic.jpg)
 ## Code Documentation
 This section outlines the structure and purpose of the code repository for the NPS-EDR project.
 
