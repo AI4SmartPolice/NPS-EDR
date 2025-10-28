@@ -1,7 +1,10 @@
-# NPS-EDR: Explainable Analysis of New Psychoactive Substances
+# NPS-EDR: Explainable Analysis for New Psychoactive Substance Identification with Chemical Insights
+📰 **Publication Announcement**  
+On October 28, 2025, the paper was published in the **Journal of Chemical Information and Modeling**.
 
-## Overview
-The NPS-EDR (New Psychoactive Substances - Explainable Deep Reasoning) project introduces an innovative AI model designed to identify novel psychoactive substances (NPS) with transparent, chemically grounded reasoning. Utilizing a Cooperative Experts Framework, NPS-EDR combines a classifier and an explainer to deliver accurate NPS predictions and clear explanations.
+[![Paper](https://img.shields.io/badge/Paper-ACS%20JCIM-blue?style=flat&logo=academia.edu)](https://doi.org/10.1021/acs.jcim.5c01884) [![Dataset](https://img.shields.io/badge/Dataset-Zenodo-green?style=flat&logo=zenodo)](https://doi.org/10.5281/zenodo.16778503)  
+The emergence of new psychoactive substances (NPS) poses a significant challenge to global public health due to their structural diversity and rapid evolution. Traditional detection methods, such as gas chromatography−mass spectrometry and liquid chromatography−mass spectrometry, which focus on component analysis and comparison with known molecules, lack adaptability for novel variants. In contrast, deep learning offers promise for proactive identification. We introduce NPS-EDR, an Explainable Deep Reasoning model for NPS identification. It features a two-stage prediction−explanation framework that enhances analysis and builds confidence. The architecture utilizes the strengths of cooperative training-mode-specific experts and reinforcement learning to ensure consistency between explanations and answers. Built on a chain-of-thought data set of over 2,900 NPS and drug molecules, NPS-EDR integrates chemical prior knowledge for precise structural−functional interpretation. Unlike detection, our model leverages biochemical insights to provide interpretable structural and functional analyses of potential NPS
+molecules, achieving superior accuracy, precision, and transparency compared to mainstream large language models and biomolecular-specific chemical language models. Its transparent reasoning enhances public health strategies, pharmacological research, and forensic science, addressing the NPS crisis.
 ![TOC Graphic](src/TOC_Graphic.jpg)
 ## Code Documentation
 This section outlines the structure and purpose of the code repository for the NPS-EDR project.
